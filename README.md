@@ -13,10 +13,6 @@
 • 제이쿼리를 이용해서 만들어낸 것이라 깃허브에서는 페이지가 열리지 않는다. 그래서 생각해낸 방법이 내 포트폴리오 안에 폴더를 만들어서 보이게 했더니 정상 작동 됨 
 
 
-📺 Gif 📺</br>
-
-
-
 🎀 기술 스택 🎀 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JQUERY-1572B6?style=flat-square&logo=jquery&logoColor=white"/> 
